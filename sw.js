@@ -12,7 +12,7 @@
 
    VERSION setzt build.py aus dem Inhalt der Seite - neuer Inhalt, neuer Cache. */
 
-const VERSION = "tourenbib-2026-09-21-99b4b1ba73";
+const VERSION = "tourenbib-2026-09-22-4e7b98e955";
 const SCHRIFT_CACHE = "tourenbib-schriften-v1";
 
 const SCHALE = [
